@@ -208,15 +208,21 @@ border: 1px solid yellow;
 }
 
 @media screen and (max-width: 600px) {
-  
-  .skills-section{
-    width: 450px;
+  .skills-section {
+    width: 450px; /* Ensure full width */
+    flex-direction: column; /* Stack items vertically */
     align-items: center;
     justify-content: center;
-    display: flex;
-    flex-direction: column;
+  }
+
+  .skills .skills-section .items {
+    width: 90%; /* Adjust width for mobile */
+    max-width: 300px;
+    margin-bottom: 20px; /* Add margin between items */
+    text-align: center;
   }
 }
+
 
 
 /* Project Section */
@@ -227,13 +233,23 @@ border: 1px solid yellow;
 }
 
 @media screen and (max-width: 600px) {
-
   .container.projects {
-    margin-top: 35px;
-    width: 450px;
+    width: 100%; /* Ensure full width */
+    justify-content: center;
+    align-items: center;
+  }
+
+  .project-cards {
+    flex-direction: column; /* Stack project cards vertically */
+    align-items: center;
+  }
+
+  .project-card {
+    width: 50%; /* Adjust width for mobile */
+    margin-bottom: 20px; /* Add spacing between project cards */
+  }
 }
 
-}
   
 
 
