@@ -108,22 +108,43 @@ a {
 }
 
 /* For smaller screens */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .home {
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
+
   .left, .right {
     width: 90%;
     margin-bottom: 20px;
   }
+
+  .right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Ensure the container takes full width */
+  }
+
   .heroImg {
-    width: 80%;
+    width: 80%; /* Set width relative to parent */
     height: auto;
-    margin-top: 70px;
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Ensure container width */
   }
 }
+
 
 /* Skills Section */
 
@@ -186,7 +207,7 @@ border: 1px solid yellow;
   padding-bottom: 5px; 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   
   .skills-section{
     width: 450px;
@@ -205,7 +226,7 @@ border: 1px solid yellow;
     width: 900px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
   .container.projects {
     margin-top: 35px;
@@ -320,7 +341,7 @@ border: 1px solid yellow;
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .icons {
     font-size: 40px;
   }
