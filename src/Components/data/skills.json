@@ -1,0 +1,74 @@
+[
+    {
+        "frontend": [
+            {
+                "title": "HTML",
+                "imgSrc": "skills/html.png"
+            },
+            {
+                "title": "CSS",
+                "imgSrc": "skills/css.png"
+            },
+            {
+                "title": "JavaScript",
+                "imgSrc": "skills/javascript.png"
+            },
+            {
+                "title": "React",
+                "imgSrc": "skills/react.png"
+            },
+            {
+                "title": "Bootstrap",
+                "imgSrc": "skills/bootstrap.png"
+            }
+        ]
+    },
+    
+    {
+        "database": [
+            {
+                "title": "MySQL",
+                "imgSrc": "skills/mysql-removebg-preview.png"
+            },
+            {
+                "title": "MongoDB",
+                "imgSrc": "skills/mongodb-removebg-preview.png"
+            }
+        ]
+    },
+    {
+        "otherskills": [
+            {
+                "title": "Git",
+                "imgSrc": "skills/git-removebg-preview.png"
+            },
+            {
+                "title": "JQuery",
+                "imgSrc": "skills/jquery-removebg-preview.png"
+            },
+            {
+                "title": "(UI) Design",
+                "imgSrc": "skills/uidesign-removebg-preview.png"
+            },
+            {
+                "title": "FlexBox",
+                "imgSrc": "skills/flexbox-removebg-preview.png"
+            }
+        ]
+    },
+  {
+        "toolstechnologies": [
+            {
+                "title": "Advance Excel",
+                "imgSrc": "skills/AdvanceExcel-removebg-preview.png"
+            },
+            {
+                "title": "Tally",
+                "imgSrc": "skills/tally.png"
+            }
+        ]
+    }
+]
+
+ 
+       

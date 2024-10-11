@@ -1,0 +1,42 @@
+[
+    {
+      "key": 1,
+      "title": "Portfolio",
+      "imageSrc": "https://img.freepik.com/free-vector/telecommuting-concept_23-2148491872.jpg?t=st=1728640604~exp=1728644204~hmac=a89855ee11fd1496eef44cc750252343f2a52da3c44c8c079ab9acbb6bf7666a&w=996",
+      "description": "This is a project made with complete React js.",
+      "source": "",
+      "code": ""
+    },
+    {
+      "key": 2,
+      "title": "Calculator",
+      "imageSrc": "https://img.freepik.com/free-photo/top-view-calculator-pink-background_23-2149103979.jpg?t=st=1728643520~exp=1728647120~hmac=f786bd93f043646f028ed5c03b7744daf4e33dfe6d9eca8bda87ab5cf6ffeeb7&w=996",
+      "description": "This is a project made with complete React js.",
+      "source": "https://react-calculator-git-main-anjali-mauryas-projects.vercel.app/",
+      "code":" https://github.com/AnjaliMaurya3011/-React_Calculator"
+    },
+    {
+      "key": 3,
+      "title": "Guessing Game",
+      "imageSrc": "https://img.freepik.com/free-photo/funny-3d-illustration-american-referee_183364-80288.jpg?t=st=1728640986~exp=1728644586~hmac=f8f7973e6c363e83551d804334d05fa75d68e091d6d52baa1f3bcbc34fb067ea&w=900",
+      "description": "This is a project made with complete Javascript.",
+      "source": "https://anjalimaurya3011.github.io/Guessing-Game/",
+      "code":"https://github.com/AnjaliMaurya3011/Guessing-Game"
+    },
+    {
+      "key": 4,
+      "title": "ToDo List",
+      "imageSrc": "https://img.freepik.com/free-vector/tiny-man-woman-standing-near-list-couple-ticking-off-items-check-list-flat-vector-illustration-daily-routine-busy-lifestyle-concept-banner-website-design-landing-web-page_74855-22067.jpg?t=st=1728641034~exp=1728644634~hmac=1be1e56554df8dd354ae97f59b972dca926f957a3e5e80e0252e515dad7a6341&w=996",
+      "description": "This is a project made with complete Javascript.",
+      "source": "https://anjalimaurya3011.github.io/To-Do-List/",
+      "code":"https://github.com/AnjaliMaurya3011/To-Do-List"
+    },
+    {
+        "key": 5,
+        "title": "Tip Calulator",
+        "imageSrc": "https://img.freepik.com/free-vector/finance-department-employees-are-calculating-expenses-company-s-business_1150-41782.jpg?t=st=1728643383~exp=1728646983~hmac=93ef8b04f5ab6355912a300274a4891486ab84c01e2bb64128382ee5865ad843&w=996",
+        "description": "This is a project made with complete Javascript.",
+        "source": "https://anjalimaurya3011.github.io/Tip-Calculator/",
+        "code":"https://github.com/AnjaliMaurya3011/Tip-Calculator"
+      }
+  ]
